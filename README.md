@@ -1,12 +1,12 @@
 <div align="center">
 
-<sub>AUTOMOTIVO</sub>
+<sub>EXPERIMENTO</sub>
 
-<h1>LRX</h1>
+# LRX
 
-<p>Documentação inicial · Código ainda não publicado neste repositório.</p>
+Espaço experimental para ideias e protótipos digitais.
 
-<p><a href="#situação-do-repositório">Situação do repositório</a> &nbsp;·&nbsp; <a href="#acessar-o-repositório">Acessar o repositório</a> &nbsp;·&nbsp; <a href="#próximos-passos">Próximos passos</a> &nbsp;·&nbsp; <a href="#colaboração">Colaboração</a></p>
+![documentação](https://img.shields.io/badge/documenta%C3%A7%C3%A3o-06B6D4?style=flat-square&labelColor=111827) ![público](https://img.shields.io/badge/p%C3%BAblico-06B6D4?style=flat-square&labelColor=111827)
 
 </div>
 
