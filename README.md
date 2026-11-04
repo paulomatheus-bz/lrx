@@ -12,49 +12,30 @@ Espaço experimental para ideias e protótipos digitais.
 
 ---
 
-
 <!-- readme:project-navigation -->
-<p align="center"><sub><a href="#situacao-do-repositorio">Situação do repositório</a> &nbsp;·&nbsp; <a href="#acessar-o-repositorio">Acessar o repositório</a> &nbsp;·&nbsp; <a href="#proximos-passos">Próximos passos</a> &nbsp;·&nbsp; <a href="#colaboracao">Colaboração</a></sub></p>
+<p align="center"><sub><a href="#sobre">Sobre</a> &nbsp;·&nbsp; <a href="#estado-atual">Estado atual</a> &nbsp;·&nbsp; <a href="#linguagens">Linguagens</a> &nbsp;·&nbsp; <a href="#ver-online">Ver online</a> &nbsp;·&nbsp; <a href="#proximo-passo">Próximo passo</a></sub></p>
 <!-- /readme:project-navigation -->
-## Situação do repositório
 
-Este espaço reúne a documentação inicial de **LRX**. O código da aplicação ainda não está versionado aqui; a versão local pode estar mais avançada.
+## Sobre
 
-| Disponível agora | A documentar com o código |
-| --- | --- |
-| Apresentação do repositório | Tecnologias e dependências |
-| Orientação para obter uma cópia | Telas e funcionalidades implementadas |
-| Próximos passos de organização | Instalação, execução e verificações |
+Experimento visual publicado para testar composição, acabamento e apresentação de serviço.
 
-## Acessar o repositório
+## Estado atual
 
-<details>
-<summary>Clonar a documentação</summary>
+**Demonstração publicada.** Existe uma demonstração online, mas o código-fonte ainda não foi enviado para este repositório.
 
-```bash
-git clone https://github.com/paulomatheus-bz/lrx.git
-cd lrx
-```
+## Linguagens
 
-O clone atual contém documentação, sem uma aplicação para iniciar.
+Nenhuma linguagem detectada: só há documentação neste repositório.
 
-</details>
+## Ver online
 
-## Próximos passos
+[LRX](https://lrx-detail-conceito-02.vercel.app)
 
-- [ ] Adicionar os arquivos do projeto, preservando o histórico existente.
-- [ ] Descrever os recursos a partir do código publicado.
-- [ ] Registrar os comandos de desenvolvimento e verificação.
-- [ ] Incluir configuração de exemplo e imagens autorizadas, quando necessárias.
+## Próximo passo
 
-## Colaboração
-
-Organize alterações em branches `feature/<descricao>` e revise por pull request. Antes de adicionar o código, configure o `.gitignore` para excluir dependências, builds, arquivos `.env` e dados privados.
-
-Não versione senhas, tokens ou dados de clientes.
+Trazer o código da demonstração para o repositório e documentar as decisões de design.
 
 ---
 
-<p align="center">
-  <sub><strong>Experimento</strong> · Projeto mantido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL</sub>
-</p>
+<p align="center"><sub>Experimento · <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a> · Maceió, AL</sub></p>
