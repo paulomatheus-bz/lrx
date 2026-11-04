@@ -1,12 +1,12 @@
 <div align="center">
 
-<sub>EXPERIMENTO</sub>
-
 # LRX
 
-Espaço experimental para ideias e protótipos digitais.
+<p>Experimento visual para apresentação de serviços.</p>
 
-![documentação](https://img.shields.io/badge/documenta%C3%A7%C3%A3o-06B6D4?style=flat-square&labelColor=111827) ![público](https://img.shields.io/badge/p%C3%BAblico-06B6D4?style=flat-square&labelColor=111827)
+<img alt="Documentação" src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-475569?style=for-the-badge&logo=markdown&logoColor=white" />
+
+<sub>PROJETO · PAULO MATHEUS</sub>
 
 </div>
 
