@@ -17,4 +17,8 @@ A proposta é explicar os serviços com imagens e informações objetivas, deixa
 
 O site está em fase de conceito e o código não está organizado neste repositório. Para uma primeira implementação, considero HTML, CSS e JavaScript, que atendem bem a uma página institucional leve.
 
+## Continuidade do projeto
+
+Vou comparar este estudo com a segunda proposta antes de escolher uma direção. Depois de confirmar os serviços e o material visual com o negócio, posso transformar o conceito em uma página responsiva e registrar o código aqui.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
