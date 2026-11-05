@@ -9,3 +9,6 @@ Este repositório contém a documentação do conceito, mas ainda não a aplica�
 ## Direção
 
 A proposta é desenvolver uma apresentação de serviços com identidade própria, informações comerciais verificadas e navegação simples. O conteúdo final depende da confirmação do negócio.
+---
+
+<p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
