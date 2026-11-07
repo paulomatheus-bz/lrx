@@ -1,4 +1,8 @@
+<div align="center">
+
 # LRX
+
+*Criei este estudo visual para uma apresentação de serviços automotivos.*
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -6,9 +10,9 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
 </p>
 
-<p><sub>Stack planejada para esta versão.</sub></p>
-Criei este estudo visual para uma apresentação de serviços automotivos.
+</div>
 
+<p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 ## Direção
 
 A proposta é explicar os serviços com imagens e informações objetivas, deixando o contato visível. O conteúdo comercial e a identidade final ainda dependem de confirmação com o responsável pelo negócio.
@@ -17,7 +21,7 @@ A proposta é explicar os serviços com imagens e informações objetivas, deixa
 
 O site está em fase de conceito e o código não está organizado neste repositório. Para uma primeira implementação, considero HTML, CSS e JavaScript, que atendem bem a uma página institucional leve.
 
-## Continuidade do projeto
+## Escolha da direção
 
 Vou comparar este estudo com a segunda proposta antes de escolher uma direção. Depois de confirmar os serviços e o material visual com o negócio, posso transformar o conceito em uma página responsiva e registrar o código aqui.
 
