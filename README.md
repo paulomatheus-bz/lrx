@@ -1,8 +1,6 @@
-<div align="center">
-
 # LRX
 
-*Criei este estudo visual para uma apresentação de serviços automotivos.*
+> Criei este estudo visual para uma apresentação de serviços automotivos.
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -10,7 +8,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
 </p>
 
-</div>
+
 
 <p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 ## Direção
