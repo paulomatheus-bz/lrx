@@ -1,6 +1,6 @@
 # LRX
 
-> Criei este estudo visual para uma apresentação de serviços automotivos.
+> Desenvolvi este estudo visual para uma apresentação de serviços automotivos.
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -21,6 +21,6 @@ O site está em fase de conceito e o código não está organizado neste reposit
 
 ## Escolha da direção
 
-Vou comparar este estudo com a segunda proposta antes de escolher uma direção. Depois de confirmar os serviços e o material visual com o negócio, posso transformar o conceito em uma página responsiva e registrar o código aqui.
+Vou comparar este estudo com a segunda proposta antes de escolher uma direção. Depois de confirmar os serviços e o material visual com o negócio, poderei transformar o conceito em uma página responsiva e registrar o código aqui.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
