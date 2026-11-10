@@ -1,6 +1,6 @@
 # LRX
 
-> Desenvolvi este estudo visual para uma apresentação de serviços automotivos.
+> Estudo de apresentação digital para serviços automotivos.
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -8,19 +8,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
 </p>
 
+Estudo visual para uma apresentação de serviços automotivos. A proposta é destacar os serviços e deixar o contato fácil de encontrar.
 
-
-<p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
-## Direção
-
-A proposta é explicar os serviços com imagens e informações objetivas, deixando o contato visível. O conteúdo comercial e a identidade final ainda dependem de confirmação com o responsável pelo negócio.
-
-## Andamento
-
-O site está em fase de conceito e o código não está organizado neste repositório. Para uma primeira implementação, considero HTML, CSS e JavaScript, que atendem bem a uma página institucional leve.
-
-## Escolha da direção
-
-Vou comparar este estudo com a segunda proposta antes de escolher uma direção. Depois de confirmar os serviços e o material visual com o negócio, poderei transformar o conceito em uma página responsiva e registrar o código aqui.
+O projeto ainda está em fase de conceito e não há código neste repositório. HTML, CSS e JavaScript são a stack prevista para uma página institucional leve. Esta proposta deve ser comparada com a segunda versão do LRX antes de escolher uma direção.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
