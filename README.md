@@ -12,4 +12,9 @@ Estudo visual para uma página de serviços automotivos. Ainda não há código 
 
 Esta proposta deve ser comparada com a segunda versão do LRX antes de escolher qual seguir.
 
+
+## Estudo de interface
+
+Primeira proposta visual para serviços automotivos, preservada como referência comparativa.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
